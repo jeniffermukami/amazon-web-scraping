@@ -6,7 +6,7 @@ Simple function that will get product prices and other information from product 
 
 Fetches prices from European and American stores.
 
-# Amazon_web_scrapper.ipynb
+# Amazon_web_scraper.ipynb
 
 Extracting attributes ofthe best seller books andsaving them in a csv file and also collecting a single product's attributes and create an email alert for when prices of the item goes down.
 
